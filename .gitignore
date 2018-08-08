@@ -1,0 +1,9 @@
+# Compiled python modules
+*.pyc
+
+# Python egg metadata
+*.egg-info/
+*.egg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
