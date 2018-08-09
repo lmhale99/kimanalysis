@@ -12,7 +12,7 @@ def getreadme():
    
 setup(name = 'kimanalysis',
       version = getversion(),
-      description = "Python-based access of the openKIM project's databases"
+      description = "Python-based access of the openKIM project's databases",
       long_description = getreadme(),
       classifiers=[
         'Development Status :: 3 - Alpha',
